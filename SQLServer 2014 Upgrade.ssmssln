@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "010 - Post-install", "010 - Post-install\010 - Post-install.ssmssqlproj", "{D35A4499-0DB0-4DBF-BD04-221156D1CFCC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "020 - Migrate databases", "020 - Migrate databases\020 - Migrate databases.ssmssqlproj", "{4E9C99D9-7329-448A-8393-95E2DFB07E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35A4499-0DB0-4DBF-BD04-221156D1CFCC}.Default|Default.ActiveCfg = Default
+		{AE01DD49-0354-4DB0-A63E-32F44C163A62}.Default|Default.ActiveCfg = Default
+		{4E9C99D9-7329-448A-8393-95E2DFB07E79}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
